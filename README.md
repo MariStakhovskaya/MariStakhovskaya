@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Maria
 
-## I’m currently learning JavaScript, React. 
-## My dream is to become a professional, work in a cool team of programmers, help others develop and write your own application.
+#### I’m currently learning JavaScript, React. 
+My dream is to become a professional, work in a cool team of programmers, help others develop and write your own application.####
 
 - [x] 2020-2021 - student
 - [ ] 2022 - I am junior developer
