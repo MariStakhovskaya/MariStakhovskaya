@@ -1,6 +1,16 @@
 ### Hi there 👋 I am Maria
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariStakhovskaya)](https://github.com/MariStakhovskaya/github-readme-stats)
+### I’m currently learning JavaScript, React. 
+### My dream is to become a professional, work in a cool team of programmers, help others develop and write your own application.
+
+
+### 2020-2021 - student
+### 2022 - I am junior developer
+### 2023 - I'm a middle developer and mentor
+### until 2027 - i am senior
+### "The path of a thousand li begins with the first step"
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariStakhovskaya/todolist=github-readme-stats)](https://github.com/MariStakhovskaya/github-readme-stats)
 
 <!--
 **MariStakhovskaya/MariStakhovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
