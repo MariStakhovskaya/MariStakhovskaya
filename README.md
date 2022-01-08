@@ -10,7 +10,7 @@
 ### until 2027 - i am senior
 ### "The path of a thousand li begins with the first step"
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariStakhovskaya/todolist=github-readme-stats)](https://github.com/MariStakhovskaya/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariStakhovskaya&todolist=github-readme-stats)](https://github.com/MariStakhovskaya/github-readme-stats)
 
 <!--
 **MariStakhovskaya/MariStakhovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
