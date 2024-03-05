@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Maria
 
-#### I’m currently learning JavaScript, React. 
+#### I’m currently learning JavaScript, React, Angular
 
 > "The path of a thousand li begins with the first step"
 
